@@ -1,0 +1,6 @@
+{
+  "name": "Alcovia GTM & Revenue Dashboard",
+  "description": "Executive GTM, revenue pacing, 8-stage funnel analytics, and campaign intelligence console for Alcovia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
